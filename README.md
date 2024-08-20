@@ -1,9 +1,7 @@
 # 🚀 Update Services Autoresbot
 
 ![Last Commit](https://img.shields.io/github/last-commit/autoresbot/update)
-
 ![Maintenance](https://img.shields.io/maintenance/yes/2024)
-
 [![Known Vulnerabilities](https://snyk.io/test/github/autoresbot/update/badge.svg)](https://snyk.io/test/github/autoresbot/update)
 
 ## 📖 Overview
