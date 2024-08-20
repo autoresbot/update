@@ -17,6 +17,18 @@
 ![Funding](https://img.shields.io/badge/funding-patreon-green)
 ![Sponsor](https://img.shields.io/badge/sponsor-GitHub%20Sponsors-orange)
 
+![Build Status](https://github.com/autoresbot/update/actions/workflows/ci.yml/badge.svg)
+[![Known Vulnerabilities](https://snyk.io/test/github/autoresbot/update/badge.svg)](https://snyk.io/test/github/autoresbot/update)
+[![Maintainability](https://api.codeclimate.com/v1/badges/your-badge-id/maintainability)](https://codeclimate.com/github/autoresbot/update/maintainability)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/your-badge-id/test_coverage)](https://codeclimate.com/github/autoresbot/update/test_coverage)
+[![codecov](https://codecov.io/gh/autoresbot/update/branch/main/graph/badge.svg)](https://codecov.io/gh/autoresbot/update)
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/autoresbot/update.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/autoresbot/update/context:javascript)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fautoresbot%2Fupdate.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fautoresbot%2Fupdate?ref=badge_shield)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=autoresbot_update&metric=alert_status)](https://sonarcloud.io/dashboard?id=autoresbot_update)
+[![CircleCI](https://circleci.com/gh/autoresbot/update.svg?style=svg)](https://circleci.com/gh/autoresbot/update)
+[![Build Status](https://travis-ci.com/autoresbot/update.svg?branch=main)](https://travis-ci.com/autoresbot/update)
+[![Heroku](https://heroku-badge.herokuapp.com/?app=autoresbot-update&style=flat)](https://autoresbot-update.herokuapp.com/)
+
 Welcome to **Autoresbot**! 🌟
 
 ## 📖 Overview
