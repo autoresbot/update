@@ -1,0 +1,14 @@
+{
+  "name": "update",
+  "version": "1.0.0",
+  "description": "Update Services Autoresbot",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "license": "MIT"
+}
